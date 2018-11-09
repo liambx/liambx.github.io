@@ -1,5 +1,5 @@
 ---
-layout: barebones
+layout: default
 no_footer: true
 wide_layout: true
 title: CV 
