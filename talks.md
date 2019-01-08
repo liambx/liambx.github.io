@@ -3,6 +3,11 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+Jan. 2019 Invited seminar in Sun Yat-sen University, Zhuhai
+
+Dec. 2018 Invited seminar in IPMU Tokyo University, Kashiwa
+
+Nov. 2018 CosPa meeting, Yangzhou
 
 Oct. 2018 CAS annual meeting, Kunming
  
